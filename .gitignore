@@ -2,6 +2,7 @@ venv/
 .env
 *.pyc
 __pycache__/
-dbdata/  # Том с данными БД
 ssl/     # Сертификаты
 .DS_Store
+instance/
+migrations/
